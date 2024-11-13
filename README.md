@@ -49,7 +49,9 @@ Four SAMBA models were pretrained with different parameter sizes, 421M, 1.3B, 1.
 
 #### Efficient Length Extrapolation
 
-<img src="figs/Exp03.png" alt="Memory Hierarchy" width="60%">
+<img src="figs/Exp03-1.png" alt="Memory Hierarchy" width="60%">
+
+<img src="figs/Exp03-2.png" alt="Memory Hierarchy" width="60%">
 
 #### Long-Context Understanding
 
@@ -67,9 +69,7 @@ Four SAMBA models were pretrained with different parameter sizes, 421M, 1.3B, 1.
 
 #### How many parameters should be allocated to Attention?
 
-<img src="figs/Als03-1.png" alt="Memory Hierarchy" width="60%">
-
-<img src="figs/Als03-2.png" alt="Memory Hierarchy" width="60%">
+<img src="figs/Als03.png" alt="Memory Hierarchy" width="60%">
 
 #### Why hybrid is better?
 
