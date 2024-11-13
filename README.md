@@ -15,6 +15,8 @@ Attention-based models have been dominant in Large Language Models (LLMs) due to
 
 <img src="figs/Architectures.png" alt="Memory Hierarchy" width="60%">
 
+<img src="figs/Picture1.png" alt="Memory Hierarchy" width="60%">
+
 ### Key Features
 1. **Long contexts ability**:SAMBA exhibits remarkable efficiency in processing long contexts.
 2. **Optimization**: Analyses provide insight into the optimal training configurations for hybrid models and underscore the benefits
