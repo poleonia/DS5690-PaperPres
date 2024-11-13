@@ -12,7 +12,9 @@
 # Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling
 
 Attention-based models have been dominant in Large Language Models (LLMs) due to their capacity for capturing complex dependencies and parallelization for large-scale training. Recently, State Space Models (SSMs) have emerged as an alternative, offering linear computational complexity and potentially better extrapolation for long sequences.Specifically, Mamba, a variant of SSMs with selective state spaces, has shown strong performance and efficient hardware use. However, SSMs face challenges in memory recall, particularly in tasks like information retrieval, where attention-based models still excel. Hybrid models combining SSMs and attention have been explored, but none have yet achieved unlimited-length extrapolation. This paper introduce SAMBA, a simple neural architecture that harmonizes the strengths of both the SSM and the attention-based models, while achieving an unlimited sequence length extrapolation with linear time complexity.
-<img src="figs/Architectures.png" alt="Memory Hierarchy" width="20%">
+
+<img src="figs/Architectures.png" alt="Memory Hierarchy" width="50%">
+
 ### Key Features
 1. **Long contexts ability**:SAMBA exhibits remarkable efficiency in processing long contexts.
 2. **Optimization**: Analyses provide insight into the optimal training configurations for hybrid models and underscore the benefits
