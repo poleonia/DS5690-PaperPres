@@ -49,9 +49,9 @@ Four SAMBA models were pretrained with different parameter sizes, 421M, 1.3B, 1.
 
 #### Efficient Length Extrapolation
 
-<img src="figs/Exp03-1.png" alt="Memory Hierarchy" width="60%">
+<img src="figs/Exp03-1.png" alt="Memory Hierarchy" width="30%">
 
-<img src="figs/Exp03-2.png" alt="Memory Hierarchy" width="60%">
+<img src="figs/Exp03-2.png" alt="Memory Hierarchy" width="30%">
 
 #### Long-Context Understanding
 
