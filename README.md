@@ -39,6 +39,8 @@ Four SAMBA models were pretrained with different parameter sizes, 421M, 1.3B, 1.
 
 <img src="figs/Exp01.png" alt="Memory Hierarchy" width="60%">
 
+<img src="figs/Exp01-2.png" alt="Memory Hierarchy" width="60%">
+
 #### Exploration on Attention and Linear Recurrence 
 
 <img src="figs/Exp02.png" alt="Memory Hierarchy" width="60%">
